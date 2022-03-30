@@ -1,0 +1,23 @@
+{
+  "name": "2048-clone",
+  "version": "1.0.0",
+  "description": "Clone of original 2048 game",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesthms/2048-clone.git"
+  },
+  "author": "Charles Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesthms/2048-clone/issues"
+  },
+  "homepage": "https://github.com/charlesthms/2048-clone#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
